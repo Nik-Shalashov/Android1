@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lesson1</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+    <string name="go">Go!</string>
+    <string name="cool_not_cool">cool/not cool</string>
+    <string name="agree">Agree?</string>
+    <string name="on_off">On/Off</string>
 </resources>
